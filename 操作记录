@@ -10,6 +10,10 @@ git commit -m 'test'  #这里“test”相当于是文件注释，大家自己�
 git push origin HEAD:main  #参考了stack overflow 改了几句
 
 # 以上方法制适用于目前项目里图片量小的情况，后面可以只clone单个文件夹了，或者可以建branch
+
+# issue
+# github上面图片预览好像有点麻烦，这个问题比较大
+# 上面的push方法很小白，大家看看就好，要是大佬能来指点一二就好了
 # 2021.09.05
 
 
