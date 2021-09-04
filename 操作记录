@@ -1,0 +1,15 @@
+# 因为估计大家用的也不多，所以就记录一下我的尝试
+
+# 用git push
+# 首先参考了博客https://www.jianshu.com/p/faec279b14eb的第五部分
+git clone git@github.com:Siriwangxr/WHU-EIS-Football-Team.git
+cd WHU-EIS-Football-Team
+git status  
+git add --all
+git commit -m 'test'  #这里“test”相当于是文件注释，大家自己写就好。
+git push origin HEAD:main  #参考了stack overflow 改了几句
+
+# 以上方法制适用于目前项目里图片量小的情况，后面可以只clone单个文件夹了，或者可以建branch
+# 2021.09.05
+
+
